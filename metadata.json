@@ -1,0 +1,6 @@
+{
+  "name": "MathDuel: Arena Perkalian & Pembagian 2 Kelompok",
+  "description": "Game edukatif interaktif matematika perkalian dan pembagian untuk 2 kelompok/tim dengan mode Duel, Tarik Tambang, Rebutan Bel, dan Petualangan Papan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
